@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "871334668906",
+        "project_id": "rohis-absensi",
+        "storage_bucket": "rohis-absensi.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:871334668906:android:6bd32d795cd858372c3813",
+                "android_client_info": {
+                    "package_name": "rohis.dugam.absensi"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyB72U4K-2wYUntYwPPJ88NcYjBuQL-PLE0"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
